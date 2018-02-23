@@ -12,3 +12,10 @@ h1 {
   padding-right: 30px;
   background-color: orange;
 }
+
+h2 {
+  text-align: left;
+  font-size: 20px;
+  display: block;
+
+}
