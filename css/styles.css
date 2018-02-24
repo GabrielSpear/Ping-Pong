@@ -19,16 +19,12 @@ h2 {
   display: block;
 
 }
-.ping{
-}
+
 #ping{
 /*margin-top: 20px;*/
-
-
-
+background-color: #f998b5;
 
 }
-
 
 .text{
 	background-color: #09BAF9;
@@ -40,25 +36,44 @@ h2 {
 	height: 50vh;
 	margin-top: 80px;
 }
+
 #about{
 	text-align: center;
 	margin-top: 20px;
 }
+
 #text{
 	color: white;
     font-size:30px;
 }
+
 .main2{
 
 	height: 100vh;
 	margin-left: 30px;
 	margin-top: 50px;
-
 }
+
+#table{
+  background-color: #A7F1FB;
+}
+
+#ping2{
+  background-color: magenta;
+}
+
 
 body{
 
 	background-image: url("../img/Best white hood.jpg");
   background-size: 90%;
 
+}
+
+#list1{
+  background-image: url("../img/pingpong2.png");
+}
+
+#button{
+  color: red;
 }
