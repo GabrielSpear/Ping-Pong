@@ -6,7 +6,7 @@
 
 ## Description
 
-This is a webpage game created to run on any computer or phone browser that is connected to the internet. It is a game that shows whether a number is ping, pong or both depending on its divisibility.
+This is a webpage game created to run on any computer or phone browser that is connected to the internet. It is a game that shows whether a number is ping, pong or both depending on its divisibility. Some more instructions are on the game page, take a look and make sure you understand fully the way it runs.
 
 ## Setup:
 
