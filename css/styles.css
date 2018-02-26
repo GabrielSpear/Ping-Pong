@@ -38,7 +38,7 @@ h1{
 }
 
 #PongP2{
-  background: yellow;
+  background: white;
 }
 
 #about{
@@ -62,6 +62,6 @@ p{
 }
 
 body{
-	background-image: url("../img/pingocean.jpg");
+	background-image: url("../img/pingpong.jpg");
 	background-size: cover;
 }
